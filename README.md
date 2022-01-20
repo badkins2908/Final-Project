@@ -52,3 +52,21 @@ SciKitLearn is the ML library we'll be using to create a classifier. Our trainin
 > * Dashboard: 
 GeoJSON will be used with HTML and CSS to present overlapping layers on a interactive map. (or Tableau will be used to visualize the different layers on an interactive map of San Francisco)
 
+## Database Model + Data Dictionary
+
+To see the visual schema of the sqLite database, as well the data dictionary for each dataset (table): [DB Schema](https://drive.google.com/file/d/1zMCzaFGsRjlVzsnGYrUh8-SjzrpvTqhi/view?usp=sharing)
+
+Further data descriptions for Resiliency, can be found [here](https://data.sfgov.org/api/views/banc-xdvr/files/JThIwZSDAm5AAw087Uwi2lZDUevVQqy1br38NZtJOqs?download=true&filename=SFDPH_CommunityResiliencyIndicatorMethods.pdf).
+
+Any additional information on datasets, including assessing the raw datasets can be found by following the links in the previous section under "Topic, Data Sources, and Technologies".
+
+## Machine Learning Model
+
+*Maybe we can look at doing a model that predicts the best houses to buy, based on cost, size, low crime, and low flooding risk? Or something along those lines?
+
+* Can complete this by training multiple unsupervised machine learning models (Shamir POA)
+
+## Current Status of Project
+In the processes of finalizing data exploration and preparing data to be implemented into SQLite Database. 
+Machine learning model being mapped out in terms of what fields will be used to drive the ML model and what the conclusion of the ML model will be.
+Tableau is going to be used for visualization, a deck of what the storyline will look like is being worked on.
