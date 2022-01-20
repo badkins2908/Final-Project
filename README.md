@@ -1,4 +1,4 @@
-# Assessing Best Neighborhoods to Live in San Francisco
+# Assessing Best Neighborhoods to Live in San Francisco: A Neighborhood Vetting Tool
 
 This project was carried out in Google Colab. To see the main colab project can be found here: https://colab.research.google.com/drive/18D8ezvcDb_bN8qLVzuNidVdGhZhk-hM_?usp=sharing
 
